@@ -6,7 +6,7 @@ using System.Reflection;
 using Xunit;
 using Microsoft.AspNetCore.Components;
 
-namespace BugTrackerUI.Tests
+namespace BugTrackerUI.Tests 
 {
     public static class TestHelpers
     {
